@@ -1,0 +1,18 @@
+.dinner .dinnerBody:hover{
+    background-color: #f1e9bf;
+    border-radius: 15px;
+}
+
+.dinner{
+   cursor: pointer;
+  
+}
+.dinnerBody{
+    background-color:white;
+}
+
+
+.dinner:hover{
+    transform: rotateY(360deg);
+    transition:1s;
+}
